@@ -10,7 +10,7 @@ Oracle Cloud で利用可能な各種クラウドサービスを一覧表示し�
 
 ![Open-DBCS-Service-Console](images/open-jcs-console.png)
 
-カード表示されている各クラウドサービスから、データベースのメニューを選択します。そして、表示される選択肢から「サービス・コンソールを開く」を選択します。
+カード表示されている各クラウドサービスから、Java のメニューを選択します。そして、表示される選択肢から「サービス・コンソールを開く」を選択します。
 
 <div style="page-break-before:always"></div>
 
@@ -26,7 +26,7 @@ Oracle Java Cloud Serice のサービスコンソール画面が表示されま�
 
 この中から **Java Cloud Service** を選択します。
 
-<div style="page-break-before:always"></div> 
+<div style="page-break-before:always"></div>
 
 ## 4. サービスインスタンスの情報を入力
 
@@ -43,7 +43,7 @@ Oracle Java Cloud Serice のサービスコンソール画面が表示されま�
 |ソフトウェア・エディション|Enterprise Edition|以下から選択<br>Standard Edition<br>Enterprie Edition<br>Enterprie Edition with Coherence|
 |Metering Frequency|Monthly|以下から選択<br>Hourly<br>Monthly|
 
-<div style="page-break-before:always"></div> 
+<div style="page-break-before:always"></div>
 
 ## 5. WebLogic Serverの構成情報を入力
 
@@ -57,7 +57,7 @@ Oracle Java Cloud Serice のサービスコンソール画面が表示されま�
 |SSH公開鍵|下記リンク先にある公開鍵ファイルを使用|コンピュートノードにアクセスする際に使用する鍵ペア|
 |Cluster Size|1|以下から選択<br>1<br>2<br>4|
 
-<div style="page-break-before:always"></div> 
+<div style="page-break-before:always"></div>
 
 
 SSH公開鍵フィールドの右側にある「編集」をクリックし、下記ファイルを選択する:
@@ -91,7 +91,7 @@ SSH公開鍵フィールドの右側にある「編集」をクリックし、�
 |管理者のユーザ名|sys||
 |パスワード|Welcome1#||
 
-<div style="page-break-before:always"></div> 
+<div style="page-break-before:always"></div>
 
 ### ロード・バランサ
 
@@ -104,7 +104,7 @@ SSH公開鍵フィールドの右側にある「編集」をクリックし、�
 |別のアクティブなOTDノードの追加|いいえ||
 |ロード・バランサ・ポリシー|最小接続件数||
 
-<div style="page-break-before:always"></div> 
+<div style="page-break-before:always"></div>
 
 ### バックアップおよびリカバリ構成
 
@@ -120,7 +120,7 @@ SSH公開鍵フィールドの右側にある「編集」をクリックし、�
 
 以上の内容を入力した後、画面右上部の「次」をクリックします。
 
-<div style="page-break-before:always"></div> 
+<div style="page-break-before:always"></div>
 
 ## 6. 入力内容の確認及びインスタンスの作成実施
 
